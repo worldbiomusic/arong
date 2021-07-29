@@ -1,0 +1,14 @@
+{
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2020-01-08 10:55:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2020-01-08 10:55:29 +0900"
+    },
+    "done": false
+  }
+}

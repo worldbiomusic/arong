@@ -1,0 +1,65 @@
+name: arong
+main: plugin.main.Main
+version: 1.0
+
+commands:
+  trigger:
+    permission: p.manager
+  a_battle:
+    permission: p.manager
+  Aliases:
+    permission: p.manager
+  Bukkit:
+    permission: p.manager
+  Minecraft:
+    permission: p.manager
+  plugins:
+    permission: p.manager
+  tell:
+    permission: p.manager
+    
+  WorldEdit:
+  token:
+    description: token commands
+    usage: |
+    
+      /token: check token amount
+#      /token [server]
+#      /token [player]
+#      /token [add | remove] [player] [amount]
+    permission: p.user
+    permission-message: You do not have permission!
+      
+  team:
+    description: team commands
+    usage: |
+    
+#      /team: check team
+#      /team [player]
+#      /team [register | remove] [player] [amount] 
+    permission: p.user
+    permission-message: You do not have permission!
+
+  me:
+    description: show my info
+    usage: |
+      
+      /me
+    permission: p.user
+    permission-message: You do not have permission!
+    
+  debug:
+    description: debug plugin
+    usage: |
+      
+      /debug feather [weapon | potion | skill]
+    permission: p.manager
+    permission-message: You do not have permission!
+      
+permissions:
+  p.manager:
+    description: only op
+    default: op
+  p.user:
+    description: allow users command
+    default: true
