@@ -1,6 +1,7 @@
 # arong
-- 인생 첫 PC 마인크래프트 서버
+- 인생 첫 PC 마인크래프트 서버 관리 플러그인
 - 1.12.2 버전
+- 객체지향을 몰랐던 시절 데이터 흐름을 모두 static으로 접근해버린 너무 아름다워 차마 볼 수 없는(?) 코드
 
 # 폴더
 - `playerdata`, `static_db`
@@ -9,7 +10,10 @@
 - `world`폴더는 맵 3가지가 있음
 - [디스코드 서버](https://discord.gg/SV8nwyQSPQ)
 
-
+# 네이버 글 기록
+- [누군가 유튜브에 올린 arong서버](https://blog.naver.com/ljh3047063/222178936554)
+- [홍보글: 심플한 배틀 서버 arong](https://blog.naver.com/ljh3047063/221746587387)
+- [엄청난 실수](https://blog.naver.com/ljh3047063/221746018708)
 
 **서버 정보**
 ```cs
@@ -124,6 +128,16 @@
 #이스터에그
 -종류: 행동, 아이템 조합, 명령어
 ```
+# 사진
+<img src="https://github.com/worldbiomusic/arong/assets/61288262/a0851230-f4bb-49c5-a6da-2fd052945c7e" width=49%></img>
+<img src="https://github.com/worldbiomusic/arong/assets/61288262/07e40e58-fa51-4f9b-9eca-789291a1f5f7" width=49%></img>
+<img src="https://github.com/worldbiomusic/arong/assets/61288262/567a2077-ec3a-4fd2-9755-81c65d4dcb90" width=49%></img>
+<img src="https://github.com/worldbiomusic/arong/assets/61288262/65c4c611-be07-411a-ace2-94bb6b5d23da" width=49%></img>
+<img src="https://github.com/worldbiomusic/arong/assets/61288262/c1d4eaf7-fd42-488a-ba85-810809267368" width=49%></img>
+<img src="https://github.com/worldbiomusic/arong/assets/61288262/42403528-9b09-41d8-9fcd-25cb453f0738" width=49%></img>
+
+표지판에 실시간으로 정보가 변경됩니다.
+
 
 **마인리스트**
 https://minelist.kr/servers/5697
